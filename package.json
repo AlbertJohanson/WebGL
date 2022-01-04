@@ -1,0 +1,14 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "This is for practice WebGL",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Johanson",
+  "license": "MIT",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
